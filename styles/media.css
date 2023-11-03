@@ -1,6 +1,6 @@
 @media screen and (max-width: 500px){
   .main-container-one p {
-    width: 75%;
+    width: 85%;
     font-size: 16px;
   }
   .main-container-two {
@@ -22,7 +22,7 @@
   }
   .card-one p,
 .card-two p {
-  width: 85%;
+  width: 90%;
 }
 .card-three p,
 .card-four p {
